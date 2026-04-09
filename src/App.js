@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Hello<code>src/App.js</code> i am doing CVT CA 2
+          Hello i am Unmesh doing CVT CA 2
         </p>
         <a
           className="App-link"
